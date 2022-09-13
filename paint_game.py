@@ -41,6 +41,7 @@ def rectangle(start, end):
         left(90)
         
     end_fill()
+    
 
 def triangle(start, end):
     "Draw triangle from start to end."
