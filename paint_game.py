@@ -29,7 +29,7 @@ def circle(start, end):
     down()
     begin_fill()
     r=math.sqrt(pow((end.x-start.x),2)+pow((end.y-start.y),2))
-    s=0.174533*r
+    s=0.0174533*r
     for i in range(360):
         forward(s)
         left(1)
