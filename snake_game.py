@@ -88,7 +88,10 @@ onkey(lambda: change(0, 10), 'Up')
 onkey(lambda: change(0, -10), 'Down')
 move()
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 moveFood()
+>>>>>>> snake_game-food
+=======
 >>>>>>> snake_game-food
 done()
